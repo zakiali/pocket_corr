@@ -1,0 +1,185 @@
+Saved contents of this file to system_log.11.4 during revup to EDK 11.5.
+
+=====================
+Opened log file
+=====================
+=====================
+Opened log file
+=====================
+Xilinx Platform Studio (XPS)
+Xilinx EDK 11.5 Build EDK_LS5.70
+
+Xilinx EDK 11.5 Build EDK_LS5.70
+
+WARNING:EDK - IPNAME:opb_v20 INSTANCE:opb0 -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 93 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - Option "CORE_STATE" in
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/pcore
+   s/quadc_interface_v1_00_a/data/quadc_interface_v2_1_0.mpd line 8  is
+   deprecated. Please use Option ARCH_SUPPORT_MAP instead. 
+WARNING:EDK - IPNAME:opb_bram_if_cntlr INSTANCE:rpoco8_testbench_v11_aa_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 559 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr INSTANCE:rpoco8_testbench_v11_adc0_3 -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 614 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr INSTANCE:rpoco8_testbench_v11_adc4_7 -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 645 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_fft_pol02_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 712 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_fft_pol02_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 743 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr INSTANCE:rpoco8_testbench_v11_iadc0_3 -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 774 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr INSTANCE:rpoco8_testbench_v11_iadc4_7 -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 805 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr INSTANCE:rpoco8_testbench_v11_walsh_codes
+   -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1019 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_aa_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1182 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_ab_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1213 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_ab_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1244 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_ac_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1275 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_ac_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1306 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_ad_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1337 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_ad_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1368 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_ae_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1399 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_ae_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1430 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_af_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1461 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_af_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1492 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_bb_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1523 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_bc_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1554 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_bc_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1585 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_bd_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1616 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_bd_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1647 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_be_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1678 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_be_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1709 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_bf_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1740 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_bf_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1771 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_cc_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1802 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_cd_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1833 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_cd_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1864 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_cg_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1895 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_cg_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1926 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_ch_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1957 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_ch_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 1988 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_dd_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 2019 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_dg_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 2050 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_dg_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 2081 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_dh_imag -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 2112 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_bram_if_cntlr
+   INSTANCE:rpoco8_testbench_v11_xengine8_muxed_dh_real -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 2143 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_v20 INSTANCE:opb1 -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 2155 - deprecated core for architecture 'virtex5sx'!
+WARNING:EDK - IPNAME:opb_opb_lite INSTANCE:opb2opb_bridge_opb1 -
+   /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/syste
+   m.mhs line 2163 - deprecated core for architecture 'virtex5sx'!
+
+XPS% Evaluating file run_xps.tcl
+No changes to be saved in MSS file
+Saved project XMP file

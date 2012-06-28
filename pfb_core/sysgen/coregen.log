@@ -1,0 +1,118 @@
+WARNING:coreutil:590 - Edif Implementation Files option is not available
+   anymore, and has been set to Ngc implementation files.
+Regenerating IP...
+WARNING:sim:356 - The parameter 'ce_overrides' is disabled, its value will
+   default from 'sync_controls_overrides_ce' to 'ce_overrides_sync_controls'.
+WARNING:sim:192 - Xco Parameter changed from
+   (coefficient_file,dmg_43_7cde0f653fa26908.coe) to
+   (coefficient_file,./dmg_43_7cde0f653fa26908.coe) during Recustomization.
+WARNING:sim:192 - Xco Parameter changed from
+   (ce_overrides,sync_controls_overrides_ce) to
+   (ce_overrides,ce_overrides_sync_controls) during Recustomization.
+XST: HDL Compilation
+XST: Design Hierarchy Analysis
+XST: HDL Analysis
+XST: HDL Synthesis
+XST: Advanced HDL Synthesis
+XST: Low Level Synthesis
+Generating Implementation files.
+Generating NGC file.
+Finished Regenerating.
+Generating ISE file...
+Finished ISE file generation.
+Generating FLIST file...
+Finished FLIST file generation.
+Preparing output directory...
+Finished preparing output directory.
+Moving files to output directory...
+Finished moving files to output directory.
+WARNING:coreutil:590 - Edif Implementation Files option is not available
+   anymore, and has been set to Ngc implementation files.
+Regenerating IP...
+WARNING:sim:356 - The parameter 'ce_overrides' is disabled, its value will
+   default from 'sync_controls_overrides_ce' to 'ce_overrides_sync_controls'.
+WARNING:sim:192 - Xco Parameter changed from
+   (coefficient_file,dmg_43_b7617019d0272360.coe) to
+   (coefficient_file,./dmg_43_b7617019d0272360.coe) during Recustomization.
+WARNING:sim:192 - Xco Parameter changed from
+   (ce_overrides,sync_controls_overrides_ce) to
+   (ce_overrides,ce_overrides_sync_controls) during Recustomization.
+XST: HDL Compilation
+XST: Design Hierarchy Analysis
+XST: HDL Analysis
+XST: HDL Synthesis
+XST: Advanced HDL Synthesis
+XST: Low Level Synthesis
+XST: Partition Report
+XST: Final Report
+Generating Implementation files.
+Generating the VHDL wrapper.
+Generating NGC file.
+Finished Regenerating.
+Generating ISE file...
+Finished ISE file generation.
+Generating FLIST file...
+Finished FLIST file generation.
+Preparing output directory...
+Finished preparing output directory.
+Moving files to output directory...
+Finished moving files to output directory.
+WARNING:coreutil:590 - Edif Implementation Files option is not available
+   anymore, and has been set to Ngc implementation files.
+Regenerating IP...
+WARNING:sim:356 - The parameter 'ce_overrides' is disabled, its value will
+   default from 'sync_controls_overrides_ce' to 'ce_overrides_sync_controls'.
+WARNING:sim:192 - Xco Parameter changed from
+   (coefficient_file,dmg_43_e0957f4fee433e17.coe) to
+   (coefficient_file,./dmg_43_e0957f4fee433e17.coe) during Recustomization.
+WARNING:sim:192 - Xco Parameter changed from
+   (ce_overrides,sync_controls_overrides_ce) to
+   (ce_overrides,ce_overrides_sync_controls) during Recustomization.
+XST: HDL Compilation
+XST: Design Hierarchy Analysis
+XST: HDL Analysis
+XST: HDL Synthesis
+XST: Advanced HDL Synthesis
+XST: Low Level Synthesis
+Generating Implementation files.
+Generating the VHDL wrapper.
+Generating NGC file.
+Finished Regenerating.
+Generating ISE file...
+Finished ISE file generation.
+Generating FLIST file...
+Finished FLIST file generation.
+Preparing output directory...
+Finished preparing output directory.
+Moving files to output directory...
+Finished moving files to output directory.
+WARNING:coreutil:590 - Edif Implementation Files option is not available
+   anymore, and has been set to Ngc implementation files.
+Regenerating IP...
+WARNING:sim:356 - The parameter 'ce_overrides' is disabled, its value will
+   default from 'sync_controls_overrides_ce' to 'ce_overrides_sync_controls'.
+WARNING:sim:192 - Xco Parameter changed from
+   (coefficient_file,dmg_43_fc0fede523fbb97e.coe) to
+   (coefficient_file,./dmg_43_fc0fede523fbb97e.coe) during Recustomization.
+WARNING:sim:192 - Xco Parameter changed from
+   (ce_overrides,sync_controls_overrides_ce) to
+   (ce_overrides,ce_overrides_sync_controls) during Recustomization.
+XST: HDL Compilation
+XST: Design Hierarchy Analysis
+XST: HDL Analysis
+XST: HDL Synthesis
+XST: Advanced HDL Synthesis
+XST: Low Level Synthesis
+XST: Partition Report
+XST: Final Report
+Generating Implementation files.
+Generating NGC file.
+Finished Regenerating.
+Generating ISE file...
+Finished ISE file generation.
+Generating FLIST file...
+Finished FLIST file generation.
+Preparing output directory...
+Finished preparing output directory.
+Moving files to output directory...
+Finished moving files to output directory.

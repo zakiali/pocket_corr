@@ -1,0 +1,254 @@
+// File: /scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/implementation/system.bmm
+
+ADDRESS_MAP epb_opb_bridge_inst  100
+	ADDRESS_SPACE rpoco8_testbench_v11_aa_real_ramblk_combined COMBINED [0x01002000:0x01003fff]
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_aa_real_ramblk/rpoco8_testbench_v11_aa_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_aa_real_ramblk/rpoco8_testbench_v11_aa_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+	END_ADDRESS_SPACE;
+	ADDRESS_SPACE rpoco8_testbench_v11_adc0_3_ramblk_combined COMBINED [0x01006000:0x01009fff]
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_adc0_3_ramblk/rpoco8_testbench_v11_adc0_3_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_adc0_3_ramblk/rpoco8_testbench_v11_adc0_3_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_adc4_7_ramblk/rpoco8_testbench_v11_adc4_7_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_adc4_7_ramblk/rpoco8_testbench_v11_adc4_7_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+	END_ADDRESS_SPACE;
+	ADDRESS_SPACE rpoco8_testbench_v11_fft_pol02_imag_ramblk_combined COMBINED [0x0100c000:0x01013fff]
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_fft_pol02_imag_ramblk/rpoco8_testbench_v11_fft_pol02_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_fft_pol02_imag_ramblk/rpoco8_testbench_v11_fft_pol02_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_fft_pol02_real_ramblk/rpoco8_testbench_v11_fft_pol02_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_fft_pol02_real_ramblk/rpoco8_testbench_v11_fft_pol02_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_iadc0_3_ramblk/rpoco8_testbench_v11_iadc0_3_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_iadc0_3_ramblk/rpoco8_testbench_v11_iadc0_3_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_iadc4_7_ramblk/rpoco8_testbench_v11_iadc4_7_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_iadc4_7_ramblk/rpoco8_testbench_v11_iadc4_7_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+	END_ADDRESS_SPACE;
+	ADDRESS_SPACE rpoco8_testbench_v11_walsh_codes_ramblk_combined COMBINED [0x01016000:0x01017fff]
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_walsh_codes_ramblk/rpoco8_testbench_v11_walsh_codes_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_walsh_codes_ramblk/rpoco8_testbench_v11_walsh_codes_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+	END_ADDRESS_SPACE;
+	ADDRESS_SPACE rpoco8_testbench_v11_xengine8_muxed_aa_real_ramblk_combined COMBINED [0x01082000:0x010c1fff]
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_aa_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_aa_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_aa_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_aa_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_ab_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_ab_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_ab_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_ab_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_ab_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_ab_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_ab_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_ab_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_ac_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_ac_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_ac_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_ac_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_ac_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_ac_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_ac_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_ac_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_ad_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_ad_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_ad_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_ad_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_ad_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_ad_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_ad_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_ad_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_ae_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_ae_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_ae_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_ae_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_ae_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_ae_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_ae_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_ae_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_af_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_af_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_af_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_af_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_af_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_af_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_af_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_af_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_bb_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_bb_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_bb_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_bb_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_bc_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_bc_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_bc_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_bc_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_bc_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_bc_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_bc_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_bc_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_bd_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_bd_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_bd_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_bd_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_bd_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_bd_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_bd_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_bd_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_be_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_be_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_be_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_be_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_be_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_be_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_be_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_be_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_bf_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_bf_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_bf_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_bf_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_bf_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_bf_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_bf_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_bf_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_cc_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_cc_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_cc_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_cc_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_cd_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_cd_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_cd_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_cd_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_cd_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_cd_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_cd_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_cd_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_cg_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_cg_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_cg_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_cg_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_cg_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_cg_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_cg_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_cg_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_ch_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_ch_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_ch_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_ch_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_ch_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_ch_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_ch_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_ch_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_dd_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_dd_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_dd_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_dd_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_dg_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_dg_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_dg_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_dg_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_dg_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_dg_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_dg_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_dg_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_dh_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_dh_imag_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_dh_imag_ramblk/rpoco8_testbench_v11_xengine8_muxed_dh_imag_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+		ADDRESS_RANGE RAMB32
+		BUS_BLOCK
+			rpoco8_testbench_v11_xengine8_muxed_dh_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_dh_real_ramblk/ramb36_0 [31:16] ;
+			rpoco8_testbench_v11_xengine8_muxed_dh_real_ramblk/rpoco8_testbench_v11_xengine8_muxed_dh_real_ramblk/ramb36_1 [15:0] ;
+		END_BUS_BLOCK;
+		END_ADDRESS_RANGE;
+	END_ADDRESS_SPACE;
+END_ADDRESS_MAP;

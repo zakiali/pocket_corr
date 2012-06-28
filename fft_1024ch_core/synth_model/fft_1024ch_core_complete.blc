@@ -1,0 +1,175 @@
+Release 11.5 ngcbuild L.70 (lin64)
+Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.
+
+Command Line: /tools/xilinx/11.5/ISE/bin/lin64/unwrapped/ngcbuild -p
+xc5vsx95t-1ff1136 fft_1024ch_core fft_1024ch_core_complete.ngc
+
+Reading NGO file
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/fft_1024ch_core
+.ngc" ...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_64caaaf3
+3657fbc8.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_ae406
+e50e98e0e45.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_872c9d4c
+c9c41649.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_c9356bca
+87716aa3.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_4096c
+59227d752a2.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_acf8d
+f2a66449f86.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_47663
+97a2cb82e6c.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_ff97c
+cbfc301b4b4.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_6b05b5fc
+af93ca60.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_b5a854da
+eb8f7460.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_34d24
+d689ba4471f.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_86cad15a
+ba8b45bc.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_8ce1e
+ef9b3b41e0a.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_de81730d
+86f2dd7a.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_9b710071
+af525a53.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_78ff4
+6b917fcba28.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_e414e83e
+3003ff05.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_50b12
+e24f99f1fa1.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_cde5f3f9
+996c5a95.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_017aed32
+e197c46e.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_f0184
+178d34429e1.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_ba2cbf4e
+e1b86c81.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_25889
+389a19635b3.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_0bf30774
+0f4c2249.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_973a453b
+d51a1032.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_2c42b
+f3f38e8cf3d.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_323c4749
+8d5636a9.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_e465b
+512e9edc7d5.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_663a71b1
+b4ae4b64.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_b972f660
+8ff04778.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_8b305
+ccf84a90afe.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_7af907ba
+a421acc1.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_9a636
+cbfb020a9d6.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_74de024f
+0c1ac463.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_cd39c143
+a25729dd.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_71748
+6a23436c11d.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_975b2300
+6c9a4cfc.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_88699
+69bd2303665.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/dmg_43_2ed32a2f
+d073c158.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/dmg_43_53f87b14
+ea26f2c9.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_ecb3139f
+941cb62b.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_2373a
+fd2271385cb.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_f64e1219
+2046d142.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_9b386
+7ea8e1e20fc.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_c613268b
+f4c74fe6.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_fa92018b
+da6c6fc3.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/cntr_11_0_fb8ca
+ae5ebc5d253.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_362cc0a7
+dbb242d8.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/fft_1024ch_core/synth_model/bmg_33_293c2a54
+36112186.ngc"...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGCBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 335840 kilobytes
+
+Writing NGC file "fft_1024ch_core_complete.ngc" ...
+Total REAL time to NGCBUILD completion:  3 sec
+Total CPU time to NGCBUILD completion:   3 sec
+
+Writing NGCBUILD log file "fft_1024ch_core_complete.blc"...

@@ -1,0 +1,36 @@
+Release 11.5 ngcbuild L.70 (lin64)
+Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.
+
+Command Line: /tools/xilinx/11.5/ISE/bin/lin64/unwrapped/ngcbuild -p
+xc5vsx95tff1136-1 -intstyle silent -sd ..
+rpoco8_testbench_v11_xsg_core_config_wrapper.ngc
+../rpoco8_testbench_v11_xsg_core_config_wrapper.ngc
+
+Reading NGO file
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/impleme
+ntation/rpoco8_testbench_v11_xsg_core_config_wrapper/rpoco8_testbench_v11_xsg_co
+re_config_wrapper.ngc" ...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/XPS_ROACH_base/impleme
+ntation/rpoco8_testbench_v11_xsg_core_config_wrapper/rpoco8_testbench_v11.ngc"..
+.
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGCBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 402520 kilobytes
+
+Writing NGC file "../rpoco8_testbench_v11_xsg_core_config_wrapper.ngc" ...
+Total REAL time to NGCBUILD completion:  17 sec
+Total CPU time to NGCBUILD completion:   17 sec
+
+Writing NGCBUILD log file
+"../rpoco8_testbench_v11_xsg_core_config_wrapper.blc"...

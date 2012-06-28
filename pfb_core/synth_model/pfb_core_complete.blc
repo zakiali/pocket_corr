@@ -1,0 +1,51 @@
+Release 11.5 ngcbuild L.70 (lin64)
+Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.
+
+Command Line: /tools/xilinx/11.5/ISE/bin/lin64/unwrapped/ngcbuild -p
+xc5vsx95t-1ff1136 pfb_core pfb_core_complete.ngc
+
+Reading NGO file
+"/scratch/zaki/workspace/pocket_corr/pfb_core/synth_model/pfb_core.ngc" ...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/pfb_core/synth_model/cntr_11_0_ae406e50e98e
+0e45.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/pfb_core/synth_model/dmg_43_e0957f4fee433e1
+7.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/pfb_core/synth_model/dmg_43_7cde0f653fa2690
+8.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/pfb_core/synth_model/dmg_43_fc0fede523fbb97
+e.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/pfb_core/synth_model/dmg_43_b7617019d027236
+0.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/pfb_core/synth_model/cntr_11_0_14a789a49ff6
+6b1b.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/pfb_core/synth_model/bmg_33_80d6b14676f218c
+5.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/pfb_core/synth_model/addsb_11_0_4a0ca6698df
+0791b.ngc"...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGCBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 299592 kilobytes
+
+Writing NGC file "pfb_core_complete.ngc" ...
+Total REAL time to NGCBUILD completion:  1 sec
+Total CPU time to NGCBUILD completion:   1 sec
+
+Writing NGCBUILD log file "pfb_core_complete.blc"...

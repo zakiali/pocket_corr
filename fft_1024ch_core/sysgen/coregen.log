@@ -1,0 +1,75 @@
+WARNING:coreutil:590 - Edif Implementation Files option is not available
+   anymore, and has been set to Ngc implementation files.
+Regenerating IP...
+WARNING:sim:192 - Xco Parameter changed from
+   (Coe_File,bmg_33_64caaaf33657fbc8.coe) to
+   (Coe_File,./bmg_33_64caaaf33657fbc8.coe) during Recustomization.
+XST: HDL Compilation
+XST: Design Hierarchy Analysis
+XST: HDL Analysis
+XST: HDL Synthesis
+XST: Advanced HDL Synthesis
+XST: Low Level Synthesis
+XST: Partition Report
+XST: Final Report
+Generating Implementation files.
+Generating the VHDL wrapper.
+Generating NGC file.
+Finished Regenerating.
+Generating ISE file...
+Finished ISE file generation.
+Generating FLIST file...
+Finished FLIST file generation.
+Preparing output directory...
+Finished preparing output directory.
+Moving files to output directory...
+Finished moving files to output directory.
+WARNING:coreutil:590 - Edif Implementation Files option is not available
+   anymore, and has been set to Ngc implementation files.
+Regenerating IP...
+WARNING:sim:192 - Xco Parameter changed from
+   (Coe_File,bmg_33_872c9d4cc9c41649.coe) to
+   (Coe_File,./bmg_33_872c9d4cc9c41649.coe) during Recustomization.
+XST: HDL Compilation
+XST: Design Hierarchy Analysis
+XST: HDL Analysis
+XST: HDL Synthesis
+XST: Advanced HDL Synthesis
+XST: Low Level Synthesis
+Generating Implementation files.
+Generating the VHDL wrapper.
+Generating NGC file.
+Finished Regenerating.
+Generating ISE file...
+Finished ISE file generation.
+Generating FLIST file...
+Finished FLIST file generation.
+Preparing output directory...
+Finished preparing output directory.
+Moving files to output directory...
+Finished moving files to output directory.
+WARNING:coreutil:590 - Edif Implementation Files option is not available
+   anymore, and has been set to Ngc implementation files.
+Regenerating IP...
+WARNING:sim:192 - Xco Parameter changed from
+   (Coe_File,bmg_33_c9356bca87716aa3.coe) to
+   (Coe_File,./bmg_33_c9356bca87716aa3.coe) during Recustomization.
+XST: HDL Compilation
+XST: Design Hierarchy Analysis
+XST: HDL Analysis
+XST: HDL Synthesis
+XST: Advanced HDL Synthesis
+XST: Low Level Synthesis
+XST: Partition Report
+XST: Final Report
+Generating Implementation files.
+Generating NGC file.
+Finished Regenerating.
+Generating ISE file...
+Finished ISE file generation.
+Generating FLIST file...
+Finished FLIST file generation.
+Preparing output directory...
+Finished preparing output directory.
+Moving files to output directory...
+Finished moving files to output directory.

@@ -1,0 +1,97 @@
+Release 11.5 ngcbuild L.70 (lin64)
+Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.
+
+Command Line: /tools/xilinx/11.5/ISE/bin/lin64/unwrapped/ngcbuild -p
+xc5vsx95t-1ff1136 rpoco8_testbench_v11_cw rpoco8_testbench_v11_cw_complete.ngc
+
+Reading NGO file
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/rpo
+co8_testbench_v11_cw.ngc" ...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/xlp
+ersistentdff.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/bmg
+_33_d9b3e13a04ce0977.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/cnt
+r_11_0_ae406e50e98e0e45.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/cnt
+r_11_0_29076546cca80226.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/mlt
+_11_2_0af49143406018f5.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/cnt
+r_11_0_05e2750227d8d748.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/cnt
+r_11_0_14a789a49ff66b1b.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/dmg
+_43_02dd3a157d80ae94.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/cnt
+r_11_0_4bb0cbb813922871.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/bmg
+_33_ea3aeec639126d38.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/bmg
+_33_5855b709c81b1172.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/bmg
+_33_0bdc6c125e0742ca.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/mlt
+_11_2_4ed06302eba93f8e.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/asr
+_11_0_372caaa934b22d95.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/bmg
+_33_e4cac21e8ed012aa.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/bmg
+_33_7de9efda5baafcf4.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/mlt
+_11_2_fb712a1e6f4360e8.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/bmg
+_33_4c2b84f72036519d.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/mlt
+_11_2_22d57f485ffd805c.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/cnt
+r_11_0_86f7251946088efb.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/cnt
+r_11_0_87d335e994d59139.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/cnt
+r_11_0_f233f255cb1ca263.ngc"...
+Loading design module
+"/scratch/zaki/workspace/pocket_corr/rpoco8_testbench_v11/sysgen/synth_model/add
+sb_11_0_99837fc802519273.ngc"...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGCBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 354508 kilobytes
+
+Writing NGC file "rpoco8_testbench_v11_cw_complete.ngc" ...
+Total REAL time to NGCBUILD completion:  4 sec
+Total CPU time to NGCBUILD completion:   4 sec
+
+Writing NGCBUILD log file "rpoco8_testbench_v11_cw_complete.blc"...
